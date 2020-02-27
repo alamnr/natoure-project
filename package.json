@@ -1,0 +1,24 @@
+{
+  "name": "natuors",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass sass/main.scss css/style.css -w "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alamnr/natoure-project.git"
+  },
+  "author": "Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alamnr/natoure-project/issues"
+  },
+  "homepage": "https://github.com/alamnr/natoure-project#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "dependencies": {}
+}

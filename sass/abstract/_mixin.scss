@@ -27,6 +27,9 @@ $brneakpoint argument choices
 - tab-land
 - big-desktop
 
+ORDER: base + typography + general layout (header, footer, navigation) 
+        + grid +  page layout + components
+
 1em = 16 px (browser default)
 */
 @mixin respond($breakpoint) {
